@@ -6,4 +6,4 @@
 
 以 Github issues 方式**记录技术、生活所思与所想！** 
 
-请移至 [C 位](https://github.com/qufei1993/blog) 浏览。
+请移至 [C 位](https://github.com/qufei1993/blog/issues) 浏览。
